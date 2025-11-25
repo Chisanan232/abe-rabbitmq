@@ -15,7 +15,7 @@ const FeatureList: FeatureItem[] = [
     image: require('@site/static/img/easy_to_use.png').default,
     description: (
       <>
-        UV-Template is very easy to use. Just import and everything is ready to go.
+        ABE-RabbitMQ is easy to use. Install the package and configure environment variables to get started.
       </>
     ),
   },
